@@ -72,7 +72,7 @@ Extract the `$pdf$` hash and perform a browser-based dictionary attack against a
 
 | Hash Calculator Extraction | Dictionary Attack Cracked | Unlocked PDF & Flag |
 | :---: | :---: | :---: |
-| ![Hash Calculator](screenshots/6_hash_calculator_extract.png) | ![Dictionary Cracker](screenshots/8_dictionary_attack_cracked.png) | ![Captured Flag PM2](screenshots/10_captured_flag_pm2.png) |
+| ![Hash Calculator](screenshots/6_hash_calculator_extract.png) | ![Dictionary Cracker](screenshots/8_dictionary_attack_cracked.png) | ![Captured Flag PM2](screenshots/10_captured_flag.png) |
 
 ---
 
@@ -122,7 +122,7 @@ Extract the `$pdf$` hash and perform a browser-based dictionary attack against a
 
 **10. Unlocked PDF & Captured Flag**
 
-![Module 2 Flag](screenshots/10_captured_flag_pm2.png)
+![Module 2 Flag](screenshots/10_captured_flag.png)
 
 ---
 
